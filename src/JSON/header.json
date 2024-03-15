@@ -1,0 +1,84 @@
+{
+    "menu1":[
+        {
+            "id":1,
+            "items":"t-shirts",
+            "link": "/shop"
+        },
+        {
+            "id":2,
+            "items":"women",
+            "link": "/women-tshirts"
+        },
+        {
+            "id":3,
+            "items":"men",
+            "link": "/men-tshirts"
+        },
+        {
+            "id":4,
+            "items":"about",
+            "link": "/about"
+        },
+        {
+            "id":5,
+            "items":"contact",
+            "link": "/contact"
+        }
+
+    ],
+
+    "menu2":[
+        {
+            "id":1,
+            "items":"faSearch"
+        },
+        {
+            "id":2,
+            "items":"faCartShopping"
+        }
+    ],
+
+    "mobilemenu1":[
+        {
+            "id":1,
+            "items":"LogIn",
+            "link": "/login"
+        },
+        {
+            "id":2,
+            "items":"Home",
+            "link": "/"
+        },
+        {
+            "id":3,
+            "items":"t-shirts",
+            "link": "/shop"
+        },
+        {
+            "id":4,
+            "items":"women",
+            "link": "/women-tshirts"
+        },
+        {
+            "id":5,
+            "items":"men",
+            "link": "/men-tshirts"
+        },
+        {
+            "id":6,
+            "items":"about",
+            "link": "/about"
+        },
+        {
+            "id":7,
+            "items":"contact",
+            "link": "/contact"
+        }
+
+    ]
+
+   
+
+
+}

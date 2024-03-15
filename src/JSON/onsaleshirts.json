@@ -1,0 +1,60 @@
+{
+    
+"OnSaleTshirts":[
+    {
+        "id":1,
+        "gender":"female",
+        "shirt":"T-shirt 1",
+        "shirtImage":"summergirlpose1.avif",
+        "price":"$33.00 - $36.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+    },
+    {
+        "id":2,
+        "gender":"male",
+        "shirt":"T-shirt 2",
+        "shirtImage":"summerboypose2.avif",
+        "price":"$23.00 - $28.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+
+    },
+    {
+        "id":3,
+        "gender":"female",
+        "shirt":"T-shirt 3",
+        "shirtImage":"summergirlpose3.avif",
+        "price":"$21.00 - $25.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+    },
+    {
+        "id":4,
+        "gender":"male",
+        "shirt":"T-shirt 4",
+        "shirtImage":"summerboypose4.avif",
+        "price":"$36.00 - $39.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+    }
+
+]
+
+}

@@ -1,0 +1,59 @@
+{
+    "PopularTshirts":[
+    {
+        "id":1,
+        "gender":"men",
+        "shirt":"T-shirt 1",
+        "shirtImage":"PopularTshirt1.avif",
+        "price":"$33.00 - $36.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+    },
+    {
+        "id":2,
+        "gender":"female",
+        "shirt":"T-shirt 2",
+        "shirtImage":"PopularTshirt2.avif",
+        "price":"$23.00 - $28.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+
+    },
+    {
+        "id":3,
+        "gender":"male",
+        "shirt":"T-shirt 3",
+        "shirtImage":"PopularTshirt3.avif",
+        "price":"$21.00 - $25.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+    },
+    {
+        "id":4,
+        "gender":"female",
+        "shirt":"T-shirt 4",
+        "shirtImage":"PopularTshirt4.jpg",
+        "price":"$36.00 - $39.00",
+        "colors":[
+            "black","grey","white"
+        ],
+        "size":[
+            "XS","S","M","L","XL"
+        ]
+    }
+
+]
+
+}

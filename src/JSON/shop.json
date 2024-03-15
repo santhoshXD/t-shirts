@@ -1,0 +1,541 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "shirt": "Casual Cool Black",
+        "shirtImage": "shirt1.jpg",
+        "extraImages":[
+            "shirt1.jpg",
+            "shirt1E1.jpg",
+            "shirt1E2.jpg"
+        ],
+        "price": "$33.00 - $36.00",
+        
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Stay cool this summer with our stylish black t-shirt. Made from premium materials for maximum comfort.",
+        "shipping": "free shipping",
+        "gcategory": "men",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "shirt": "Summer Vibes white",
+        "category": "onsale",
+        "shirtImage": "Shirt2.jpeg",
+        "extraImages":[
+            "Shirt2.jpeg",
+            "Shirt2.avif",
+            "Shirt2E1.avif"
+        ],
+        "price": "$23.00 - $28.00",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Experience the summer vibes with our trendy grey t-shirt. Perfect for casual outings or beach days.",
+        "shipping": "free shipping",
+        "gcategory": "women",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+        
+    },
+    {
+        "id": 3,
+        "gender": "male",
+        "shirt": "Chic Light Purple",
+        "category": "onsale",
+        "shirtImage": "PopularTshirt3.avif",
+        "extraImages":[
+            "PopularTshirt3.avif",
+            "Shirt3E1.jpg",
+            "Shirt3E2.jpg"
+        ],
+        "price": "$21.00 - $25.00",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Embrace the summer chic with our elegant white t-shirt. Ideal for any occasion with a touch of sophistication.",
+        "shipping": "free shipping",
+        "gcategory": "men",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 4,
+        "gender": "female",
+        "shirt": "Urban Edge Black",
+        "shirtImage": "Shirt4.avif",
+        "extraImages":[
+            "Shirt4.avif",
+            "Shirt4E1.avif",
+            "Shirt4E2.avif"
+        ],
+        "price": "$36.00 - $39.00",
+   
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Step into urban edge with our sleek black t-shirt. Perfect for making a bold statement wherever you go.",
+        "shipping": "free shipping",
+        "gcategory": "women",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 5,
+        "gender": "female",
+        "shirt": "Summer Breeze Grey",
+        "shirtImage": "Shirt5.jpg",
+        "extraImages":[
+            "Shirt5.jpg",
+            "Shirt5E2.jpg",
+            "Shirt5E1.jpg"
+        ],
+        "price": "$33.00 - $36.00",
+        "category": "onsale",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Feel the summer breeze in our comfortable grey t-shirt. Effortlessly stylish for any casual outing.",
+        "shipping": "free shipping",
+        "gcategory": "women",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 6,
+        "gender": "male",
+        "shirt": "Beach Casual White",
+        "shirtImage": "summerboypose2.avif",
+        "extraImages":[
+            "summerboypose2.avif",
+            "Shirt6E1.avif",
+            "Shirt6E2.jpg"
+        ],
+        "price": "$23.00 - $28.00",
+        "category": "popular",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Relax in beach casual style with our classic white t-shirt. Perfect for those laid-back days under the sun.",
+        "shipping": "free shipping",
+        "gcategory": "men",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 7,
+        "gender": "female",
+        "shirt": "Coastal Charm Black",
+        "shirtImage": "summergirlpose3.avif",
+        "extraImages":[
+            "summergirlpose3.avif",
+            "Shirt7E2.jpg",
+            "Shirt7E1.jpg"
+        ],
+        "price": "$21.00 - $25.00",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Radiate coastal charm with our versatile black t-shirt. Effortlessly chic for any seaside adventure.",
+        "shipping": "free shipping",
+        "gcategory": "women",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 8,
+        "gender": "male",
+        "shirt": "Street Style Maroon",
+        "shirtImage": "Shirt8.jpg",
+        "extraImages":[
+            "Shirt8.jpg",
+            "Shirt8E1.jpg",
+            "Shirt8E2.jpg"
+        ],
+        "price": "$36.00 - $39.00",
+        "category": "onsale",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Embody street style in our trendy grey t-shirt. Perfect for urban explorations and city adventures.",
+        "shipping": "free shipping",
+        "gcategory": "men",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 9,
+        "gender": "female",
+        "shirt": "Trendsetter Black",
+        "shirtImage": "Shirt9E2.avif",
+        "extraImages":[
+            "Shirt9E2.avif",
+            "Shirt9E1.jpg",
+            "Shirt9.avif"
+        ],
+        "price": "$36.00 - $39.00",
+        "category": "popular",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Set the trend with our edgy black t-shirt. A must-have for fashion-forward individuals.",
+        "shipping": "free shipping",
+        "gcategory": "women",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 10,
+        "gender": "male",
+        "shirt": "Urban Explorer White",
+        "shirtImage": "Shirt10.jpg",
+        "extraImages":[
+            "Shirt10.jpg",
+            "Shirt10E1.avif",
+            "Shirt10E2.jpg"
+        ],
+        "price": "$36.00 - $39.00",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Explore the urban landscape in style with our crisp white t-shirt. Versatile and timeless for any adventure.",
+        "shipping": "free shipping",
+        "gcategory": "men",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 11,
+        "gender": "female",
+        "shirt": "Stylish Pale Yellow",
+        "shirtImage": "shirt11E1.avif",
+        "extraImages":[
+            "shirt11E1.avif",
+            "shirt11.jpg",
+            "shirt11E2.jpg"
+        ],
+        "price": "$36.00 - $39.00",
+        "colors": [
+            "black","grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "popular",
+        "description": "Exude city swagger with our chic grey t-shirt. Effortlessly cool for navigating urban streets.",
+        "shipping": "free shipping",
+        "gcategory": "women",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    },
+    {
+        "id": 12,
+        "gender": "male",
+        "shirt": "Metro Casual Green",
+        "shirtImage": "newtshirt4.avif",
+        "category": "popular",
+        "extraImages":[
+            "newtshirt4.avif",
+            "shirt12E1.jpg",
+            "shirt12E2.jpg"
+             
+        ],
+        "price": "$36.00 - $39.00",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Stay casually cool in the metro with our sleek black t-shirt. Perfect for everyday city style.",
+        "shipping": "free shipping",
+        "gcategory": "men",
+        "productDescription": "Our T-Shirts are lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+        "productDetails": {
+            "material": "100% Cotton",
+            "weight": "260gsm",
+            "features": [
+                "Breathable Fabric"
+            ]
+        },
+        "sizeAndFit": {
+            "modelSize": "Model is wearing size M and is 6'1\"",
+            "fit": "Standard fit for a relaxed, easy feel"
+        },
+        "deliveryAndReturns": {
+            "freeDelivery": "Free standard delivery on orders over $60.",
+            "returns": "You can return your order for any reason, free of charge, within 30 days",
+            "shippingLabel": "We also offer a Free-of-Charge shipping label"
+        }
+    }
+]

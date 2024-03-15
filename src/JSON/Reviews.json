@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "review":"The Mountain Explorer tee is incredibly soft and the colors are vibrant. Great comfort and style in one shirt!",
+        "star":"⭐⭐⭐⭐⭐",
+        "username":"Niharika"
+    },
+    {
+        "id":2,
+        "review":"Ordered the Galaxy Dreamer tee, but it runs small. Quality's good, but consider sizing up.",
+        "star":"⭐⭐⭐⭐",
+        "username":"Zane"
+    }
+]
